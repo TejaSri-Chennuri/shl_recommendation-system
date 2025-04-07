@@ -1,0 +1,6 @@
+Assessment Name,URL,Remote Testing Support,Adaptive/IRT Support,Duration (min),Test Type,Description
+"Coding: Programming with Java","https://www.shl.com/assessments/coding-java","Yes","Yes",30,"Technical","Tests Java programming skills."
+"Coding: Programming with Python","https://www.shl.com/assessments/coding-python","Yes","Yes",30,"Technical","Tests Python programming skills."
+"Verify G+ Cognitive Ability","https://www.shl.com/assessments/verify-g","Yes","Yes",35,"Cognitive","Measures problem-solving and reasoning."
+"Personality OPQ32","https://www.shl.com/assessments/opq32","Yes","No",40,"Personality","Assesses behavioral traits."
+"Collaborative Skills Assessment","https://www.shl.com/assessments/collaborative","Yes","No",25,"Behavioral","Tests teamwork and communication."
